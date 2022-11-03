@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: notlubo.github.io
-Token: a3f11117876771840ae9825395d8b762aba6ae4fe20efa23fbdd3b44ba371ee1
+Token: 919a84186100fd04c314062f99b005f207996d5701bbc758d84de57701fb43f8
